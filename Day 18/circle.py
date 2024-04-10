@@ -23,7 +23,7 @@ tiny.pensize(2)
 tiny.speed("fastest")
 
 
-draw_spirograph(121)
+draw_spirograph(9)
 # tiny.heading()
 
 
